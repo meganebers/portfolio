@@ -16,6 +16,14 @@ body {
   font-weight: 900;
   letter-spacing: 3px;
   text-transform: uppercase;
+  
+  a {
+  color: #000;
+}
+
+a:hover, a:focus {
+  color: #999;
+  
 }
 
 section {
