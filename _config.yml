@@ -10,7 +10,7 @@ full_name: Megan Ebers
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: ROWS
+layout_style: COLUMNS
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
@@ -36,7 +36,7 @@ instagram: meganebersphotography
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Gallery
+name: Portfolio
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Photography Portfolio
