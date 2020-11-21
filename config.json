@@ -57,90 +57,6 @@
       "placeholder_path": "./photos/Xero Shoes/DSC_0499.placeholder.jpg"
     }
   ],
-  "Katadyn Group": [
-    {
-      "width": 2048,
-      "height": 1365,
-      "path": "./photos/Katadyn Group/DSC_0235.jpg",
-      "compressed_path": "./photos/Katadyn Group/DSC_0235.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Katadyn Group/DSC_0235.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Katadyn Group/DSC_0619.jpg",
-      "compressed_path": "./photos/Katadyn Group/DSC_0619.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Katadyn Group/DSC_0619.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1365,
-      "path": "./photos/Katadyn Group/DSC_0236.jpg",
-      "compressed_path": "./photos/Katadyn Group/DSC_0236.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Katadyn Group/DSC_0236.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Katadyn Group/DSC_0617.jpg",
-      "compressed_path": "./photos/Katadyn Group/DSC_0617.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Katadyn Group/DSC_0617.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1365,
-      "path": "./photos/Katadyn Group/DSC_0213.jpg",
-      "compressed_path": "./photos/Katadyn Group/DSC_0213.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Katadyn Group/DSC_0213.placeholder.jpg"
-    }
-  ],
-  "Beverages": [
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Beverages/DSC_0816.jpg",
-      "compressed_path": "./photos/Beverages/DSC_0816.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beverages/DSC_0816.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Beverages/DSC_0815.jpg",
-      "compressed_path": "./photos/Beverages/DSC_0815.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beverages/DSC_0815.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1583,
-      "path": "./photos/Beverages/DSC_0824.jpg",
-      "compressed_path": "./photos/Beverages/DSC_0824.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beverages/DSC_0824.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Beverages/DSC_0819.jpg",
-      "compressed_path": "./photos/Beverages/DSC_0819.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beverages/DSC_0819.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/Beverages/DSC_0823.jpg",
-      "compressed_path": "./photos/Beverages/DSC_0823.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Beverages/DSC_0823.placeholder.jpg"
-    }
-  ],
   "Outdoors": [
     {
       "width": 2048,
@@ -477,6 +393,82 @@
       "compressed_path": "./photos/Outdoors/DSC_0200.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Outdoors/DSC_0200.placeholder.jpg"
+    }
+  ],
+  "Katadyn Group": [
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Katadyn Group/DSC_0235.jpg",
+      "compressed_path": "./photos/Katadyn Group/DSC_0235.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Katadyn Group/DSC_0235.placeholder.jpg"
+    },
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Katadyn Group/DSC_0619.jpg",
+      "compressed_path": "./photos/Katadyn Group/DSC_0619.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Katadyn Group/DSC_0619.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Katadyn Group/DSC_0236.jpg",
+      "compressed_path": "./photos/Katadyn Group/DSC_0236.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Katadyn Group/DSC_0236.placeholder.jpg"
+    },
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Katadyn Group/DSC_0617.jpg",
+      "compressed_path": "./photos/Katadyn Group/DSC_0617.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Katadyn Group/DSC_0617.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1365,
+      "path": "./photos/Katadyn Group/DSC_0213.jpg",
+      "compressed_path": "./photos/Katadyn Group/DSC_0213.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Katadyn Group/DSC_0213.placeholder.jpg"
+    }
+  ],
+  "Beverages": [
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Beverages/DSC_0815.jpg",
+      "compressed_path": "./photos/Beverages/DSC_0815.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Beverages/DSC_0815.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1583,
+      "path": "./photos/Beverages/DSC_0824.jpg",
+      "compressed_path": "./photos/Beverages/DSC_0824.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Beverages/DSC_0824.placeholder.jpg"
+    },
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Beverages/DSC_0819.jpg",
+      "compressed_path": "./photos/Beverages/DSC_0819.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Beverages/DSC_0819.placeholder.jpg"
+    },
+    {
+      "width": 1365,
+      "height": 2048,
+      "path": "./photos/Beverages/DSC_0823.jpg",
+      "compressed_path": "./photos/Beverages/DSC_0823.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Beverages/DSC_0823.placeholder.jpg"
     }
   ]
 }
